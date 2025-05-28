@@ -9,6 +9,11 @@ Detecting misinformation in online news using **LSTM + GloVe** and **BERT**.
 *23 481 real* & *23 481 fake* English news articles  
 Columns: `title`, `text`, `subject`, `date` → merged & labelled (`label = 1` real, `0` fake).
 
+1. Dataset Link:
+https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets
+
+2. GloVe Embedding Link:
+https://nlp.stanford.edu/projects/glove/
 ---
 
 ## Pre-processing pipeline
